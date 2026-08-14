@@ -52,9 +52,10 @@ Based on the dashboard:
 
 ## 🖼️ Dashboard Preview
 
-![Power BI Dashboard](Screenshots/dashboard.png)
+[![Power BI Dashboard](Screenshots/dashboard.png)](https://github.com/HunzlaDawood/powerbi-expense-reimbursement-dashboard/blob/main/power%20BI%20.png)
 
 ## 📁 Project Files
+
 
 * `PowerBI/Expense_Reimbursement_Analysis.pbix` — Power BI project file
 * `Screenshots/dashboard.png` — Dashboard preview
